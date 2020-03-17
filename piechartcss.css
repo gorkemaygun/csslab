@@ -1,0 +1,10 @@
+#circle{
+	width: 70px;
+	height: 70px;
+	border-radius: 70px;
+	box-sizing: border-box;
+	border-width: 70px;
+	border-style: solid ;
+	border-color: yellow green blue red;
+	transform: rotate(45deg);
+}
